@@ -8,18 +8,27 @@ class Pet:
 
     def eat(self):
         # TODO
-
+        pass
     def sleep(self):
         # TODO
-
+        pass
     def play(self):
         # TODO
-
+        pass
     def train(self, trick):
         # TODO
-
+        pass
+    def show_tricks(self):
+        # TODO
+        pass
+    def get_status(self):
+        # TODO
+        pass
+        pass
+        pass
     def show_tricks(self):
         # TODO
 
     def get_status(self):
         # TODO
+     pass
