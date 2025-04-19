@@ -61,3 +61,6 @@ Deadline: [Set your date]
 Submission format: clone / fork this repo
 
 Bonus points for creativity (custom actions, emojis, pet types, etc.)
+
+sample output 
+![alt text](<WhatsApp Image 2025-04-18 at 16.03.36_89745ad7.jpg>)
